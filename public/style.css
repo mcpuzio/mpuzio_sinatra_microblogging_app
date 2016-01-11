@@ -1,0 +1,142 @@
+body{ 
+background-image: url("images/pir.png");
+color: blue;
+background-repeat: no-repeat;
+position: relative;
+font-size: 15px;
+background-color: #d7d7ff;
+text-align: left; }
+
+
+ 
+.shit {	
+	width: 5%;
+	margin: auto;
+    width: 20px;
+	height: 1px;}
+
+
+#delete {
+	float: right;
+	text-transform: uppercase;
+	margin-top: 20%;
+    border: solid white;
+	font-size: 30px;
+  	background: #3498db;
+  	padding: 10px 20px 10px 20px;
+  	text-decoration: none;
+  	color: white;
+	line-height: 70px;
+	background-color: #55acee;}
+
+#delete a:link {
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: center;
+    font-size: 30px;
+    background: #3498db;
+    padding: 10px 20px 10px 20px;}
+
+#duckthatshit {
+	color: white;
+	padding: 5%;
+	background-position: right;
+	margin-right: 0%;
+	margin-left: 4%;
+	margin-top: 5%;}
+
+#duckthatshitb {
+	color: white;
+	padding: 5%;
+	background-position: right;
+	border-radius: 7px;
+	margin-top: 5%;}
+
+#duckthatshit a:link {
+  border-radius: 12px;
+  text-shadow: 2px 1px 3px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 30px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;}
+
+#duckthatshitb a:link {
+  border-radius: 12px;
+  text-shadow: 2px 1px 3px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 30px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;}
+
+.stuff {
+	float: left;
+	text-align: right;}
+
+h1{
+text-align: left;
+float: left;
+color: blue;
+font-size:25px;}
+
+p{
+text-align: center;
+font-size:30px;}
+
+#tbuttons{
+	line-height: 70px;
+	width: 100%;
+	background-color: #55acee;
+	border: 1px solid #3b94d9;
+    border-top-color: rgb(59, 148, 217);
+    border-top-style: solid;
+    border-top-width: 3px;
+    text-align: left;
+    font-size: 25px;
+    position: fixed;
+    float: right;
+    margin-left: 45%;
+    text-decoration: none;}
+
+
+.signin-Form-inputsignin-Form-username{
+	margin-top: 20%;
+	margin-bottom: auto;
+	float: right;
+	position: relative;}
+
+.CurrentPiratesOnly{
+	font-size: 30px;
+	color: blue;
+	text-align: right;
+	float: right;}
+
+
+form{
+	font-style: courier;
+	font-size: 30px;
+	margin-right: 40%;
+	margin-left: 40%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	background-color: #E0EFF6;
+    border-radius: 60%;
+    margin-top: 6px;
+    padding: 2px 100px 59px;
+	width: 65px;
+	height: 30%;}
+
+.newpost-wrapper{
+	height: 50%;
+	width: 50%;
+	color: blue;
+	float: right;
+	margin-bottom: 10%;
+	margin-top: 0%;
+	margin-left: 20%;
+	margin-right:20%;}
+
+

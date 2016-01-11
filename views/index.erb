@@ -1,0 +1,12 @@
+	<div id="tbuttons"><a href="/newpost" id="duckthatshit">Post Something, Matey!</a>
+	<a href="/signout" id="duckthatshit"> Walk da plank! (Sign Out)</a>
+</div>
+	
+
+<% @posts.each do |post| %> 
+	<h1><%=post.user_id%></h1>
+	<div class="shit">
+	<p class="stuff"> Body: <%= post.body %> </p>
+</div>
+<% end %>
+

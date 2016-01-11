@@ -1,0 +1,27 @@
+<% @posts.each do |post| %> 
+<p> Body: <%= post.body %> </p>
+<% end %>
+
+
+<div id="Current Pirates Only!"></div>
+
+	<form id="welcome-form" method="POST" action="/signin">
+	<div class="newpost-wrapper">
+
+
+    <div class="newpost-Form-input newpost-Form-username">
+ <input  type="text" id="newpost" 
+         class="text-input username-input" 
+         name="title"
+         placeholder="Pirate tales">
+  </div>
+
+	<div class="newpost-Form-input newpost-Form-user_id">
+  <input type="text" id="newpost-user_id" 
+  		 class="text-input newpost-input" 
+         name="body" 
+         placeholder="Scallywag Blog">
+  </div>
+
+</div>
+</form>
